@@ -1,0 +1,47 @@
+body {
+    background: white;
+    color: blue;
+    margin: 0px;
+    padding: 0px;
+    
+
+}
+header {
+    background: pink;
+    color: white;
+    margin: 10px;
+    padding: 70px;
+
+}
+section {
+    background: white;
+    color: black;
+    margin: 20px;
+    padding: 0px;
+    height: 0px;
+    
+    
+    
+}
+div {
+    width: 200px;
+    padding: 0px;
+    margin: px;
+}
+figure {
+    margin: 10px;
+    width: 300px;
+    height: 300px;
+    display: flex;
+    ruby-merge: 10px;
+
+}
+ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+li {
+    display: inline-block;
+    margin: 20px;
+}
